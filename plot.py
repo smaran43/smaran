@@ -13,6 +13,7 @@ k = 0*np.ones(100)
 plt.plot(x,y,label="Hyperbola")
 plt.plot(x,z,label="Normal")
 plt.plot(x,y)
+plt.plot(x,z)
 
 
 plt.grid() 
